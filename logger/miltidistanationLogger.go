@@ -1,10 +1,10 @@
 package logger
 
 import (
-	"logger/emitter"
-	"logger/level"
-	"logger/message"
-	"logger/message/multifield"
+	"github.com/Artie18/go-logger/emitter"
+	"github.com/Artie18/go-logger/level"
+	"github.com/Artie18/go-logger/message"
+	"github.com/Artie18/go-logger/message/multifield"
 )
 
 type MultiDestinationLogger struct {

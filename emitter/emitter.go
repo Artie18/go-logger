@@ -1,7 +1,7 @@
 package emitter
 
 import (
-	"logger/message"
+	"github.com/Artie18/go-logger/message"
 )
 
 type Emitter interface {

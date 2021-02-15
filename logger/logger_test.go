@@ -1,9 +1,9 @@
 package logger
 
 import (
-	"logger/emitter"
-	"logger/emitter/console"
-	"logger/level"
+	"github.com/Artie18/go-logger/emitter"
+	"github.com/Artie18/go-logger/emitter/console"
+	"github.com/Artie18/go-logger/level"
 	"testing"
 )
 

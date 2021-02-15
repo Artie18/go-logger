@@ -2,7 +2,7 @@ package console
 
 import (
 	"fmt"
-	"logger/message"
+	"github.com/Artie18/go-logger/message"
 )
 
 type Console struct {

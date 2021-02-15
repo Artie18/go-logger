@@ -1,8 +1,8 @@
 package logger
 
 import (
-	"logger/level"
-	"logger/message"
+	"github.com/Artie18/go-logger/level"
+	"github.com/Artie18/go-logger/message"
 )
 
 type Logger interface {

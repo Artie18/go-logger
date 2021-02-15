@@ -2,9 +2,9 @@ package multifield
 
 import (
 	"fmt"
-	"logger/emitter"
-	"logger/level"
-	"logger/message"
+	"github.com/Artie18/go-logger/emitter"
+	"github.com/Artie18/go-logger/level"
+	"github.com/Artie18/go-logger/message"
 	"strings"
 )
 
